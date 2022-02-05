@@ -1,0 +1,12 @@
+DOMAINS: 
+    - "google.com":
+        serverType: "Google Cloud Server"
+        ip: "142.250.66.110"
+        dnsServer: "Google"
+    - "clubhouse.com":
+        serverType: "NA"
+        ip: "104.18.12.12"
+        dnsServer: "Cloudflare"
+ 
+
+
