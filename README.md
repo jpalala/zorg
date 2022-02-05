@@ -9,7 +9,7 @@ Basically some python scripts to parse domain in a directory `~/.zorg.d`
 ## Files
 
 
-`domains.py` looks up via argument if it doesnt then it will try to get at least the IP via ping.
+`domains.py` looks up via argument if it doesnt then it will try to get some details if found in your `.zorg.d/list.domains.yaml` file
 
 See `examples/` for how your `list.domains.yaml` should look like
 
